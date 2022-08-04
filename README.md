@@ -112,3 +112,9 @@ Example Playbook
             shell: /bin/sh
 ```
 
+Author Information
+------------------
+
+- [Robert de Bock](https://robertdebock.nl/) <robert@meinit.nl>
+- [Brian Rimek](https://github.com/rembik)
+- John Petro
